@@ -28,6 +28,7 @@ public class Hero : MonoBehaviour {
         if (S == null)
         {
             S = this;
+        
         }
         else
         {
