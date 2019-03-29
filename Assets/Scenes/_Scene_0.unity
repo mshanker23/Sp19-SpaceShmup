@@ -577,7 +577,7 @@ MonoBehaviour:
   - {fileID: 873413579}
   - {fileID: 378769453}
   - {fileID: 1640561905}
-  _shieldLevel: 1
+  _shieldLevel: 2
 --- !u!4 &381741541
 Transform:
   m_ObjectHideFlags: 0
